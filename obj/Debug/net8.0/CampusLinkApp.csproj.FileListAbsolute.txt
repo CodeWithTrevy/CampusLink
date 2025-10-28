@@ -1,0 +1,14 @@
+/home/trevor/CampusLinkApp/bin/Debug/net8.0/CampusLinkApp
+/home/trevor/CampusLinkApp/bin/Debug/net8.0/CampusLinkApp.deps.json
+/home/trevor/CampusLinkApp/bin/Debug/net8.0/CampusLinkApp.runtimeconfig.json
+/home/trevor/CampusLinkApp/bin/Debug/net8.0/CampusLinkApp.dll
+/home/trevor/CampusLinkApp/bin/Debug/net8.0/CampusLinkApp.pdb
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.AssemblyInfoInputs.cache
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.AssemblyInfo.cs
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.csproj.CoreCompileInputs.cache
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.dll
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/refint/CampusLinkApp.dll
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.pdb
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/CampusLinkApp.genruntimeconfig.cache
+/home/trevor/CampusLinkApp/obj/Debug/net8.0/ref/CampusLinkApp.dll
